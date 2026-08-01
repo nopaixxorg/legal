@@ -15,6 +15,9 @@ existe por dos motivos concretos:
 curl -s -o /dev/null -w "%{http_code}" https://nopaixxorg.github.io/legal/ejemplo/privacidad
 ```
 
-**No la borres.** Es barata y es lo único que mantiene esa suposición cerrada.
+**No la borres, ni a su pareja.** `@nopaixxorg/legal` comprueba **los dos** documentos de cada app,
+así que `ejemplo/privacidad` y `ejemplo/terminos` van juntas: con una sola, cualquier app medida
+contra `ejemplo` vería un fallo permanente. Lo detectó `role-showroom` al escribir su pantalla,
+cuando aquí solo estaba esta.
 
 Las políticas reales van en `<app>/privacidad.md`, a partir de `_plantilla/privacidad.md`.
