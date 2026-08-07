@@ -4,7 +4,12 @@ Políticas de privacidad y términos de uso de las aplicaciones publicadas por *
 
 ## Aplicaciones
 
-*Todavía no hay ninguna aplicación publicada.*
+### HiveCheck
+
+Cuaderno de apicultura que funciona sin cobertura.
+
+- [Política de privacidad](hivecheck/privacidad)
+- [Términos de uso](hivecheck/terminos)
 
 ---
 
